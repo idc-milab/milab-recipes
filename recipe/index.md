@@ -6,5 +6,6 @@ Recipes
     - Capiroska: summer drink with origins in ..
 # first_dish
 # main_dish
+    - Hraime: hot fish dish.
 # soups
 
