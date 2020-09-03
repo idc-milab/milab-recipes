@@ -2,7 +2,7 @@
 This repository holds the communal knowledge of kitchen in the lab.
 
 ### How should I start?
-1. `$ git clone https://biojulo@bitbucket.org/biojulo/git-cook.git`
+1. `$ git clone git@github.com:idc-milab/milab-recipes.git`
 2. `$ git checkout develop`
 3. `$ git pull origin develop`
 4. `$ git checkout -b your_grandpa_recipe`
@@ -11,7 +11,7 @@ This repository holds the communal knowledge of kitchen in the lab.
 7. `$ git add dessert/cake.recipe `
 8. `$ git commit -m "Added best recipe ever"`
 9. `$ git push -u origin your_grandpa_recipe`
-10. Now is time to got to https://bitbucket.org/biojulo/git-cook/pull-requests/ and ask 2 of your collaborators to check your recipe to see is expressive enough and contains clear instrcuts and list of instructions
+10. Now is time to got to https://github.com/idc-milab/milab-recipes/compare and ask 2 of your collaborators to check your recipe to see is expressive enough and contains clear instrcuts and list of instructions
 11. At this time if you need to address comments repeat 5. to 9. and add as many commits you feel necessary
 12. When you got 2 recipe reviewes that approve your recipe you should make sure you have rebased on the latest dev
 13. `$ git checkout develop`
