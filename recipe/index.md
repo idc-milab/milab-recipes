@@ -2,6 +2,7 @@ Recipes
 
 # dessert
     - Flan: dessert made out of tastiness short explanation here
+    - Banana muffins: tasty and clean banana muffins
     - Chocolate Cake
 # drinks
     - Capiroska: summer drink with origins in ..
